@@ -1,1 +1,1 @@
-# cng-repository example
+# cng-repository done
